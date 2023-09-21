@@ -1,0 +1,24 @@
+.hh1{
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(38, 0, 161);
+    color: white;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.divp{
+    text-align: center;
+    background-color: rgb(0, 33, 177);
+    color: white;
+    padding: 40px;
+    width: 100%;
+
+    
+}
+.divimg{
+    float: left;
+    margin-left: 820px;
+}
+

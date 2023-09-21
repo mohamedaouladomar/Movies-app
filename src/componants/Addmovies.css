@@ -1,0 +1,37 @@
+.divp{
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+    width: 1230px;
+    
+}
+.div12{
+    padding: 10px;
+}
+h2{
+    color: rgb(38, 0, 161);
+    float: left;
+    margin-left: 10px;
+
+}
+.labp{
+    float: left;
+    color: black;
+}
+.inp2{
+    float: left;
+    margin-left: 10px;
+    background-color: white;
+   border-radius: 10px;
+   border-color:rgb(38, 0, 161) ;
+   color: rgb(38, 0, 161);
+   width: 100px;
+   height: 40px;
+  }
+  
+  .inp2:hover{
+    transition: 0.5s;
+    background-color:rgb(38, 0, 161) ;
+    color: white;
+  }

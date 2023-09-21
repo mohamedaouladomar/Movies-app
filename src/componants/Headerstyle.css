@@ -1,0 +1,50 @@
+.h31{
+    text-align: center;
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+}
+
+.divp{
+    text-align: center;
+    /* background-color: rgb(0, 33, 177); */
+    color: white;
+    padding: 40px;
+    width: 100%;
+
+    
+}
+.divimg{
+    float: left;
+    margin-left: 820px;
+}
+
+/* .spnmn{
+    font-size: 18px;
+    float: right;
+    margin-top: 32px;
+   
+} */
+
+.spnmn {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 32px;
+  }
+  
+  .spnmn a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease-out;
+  }
+  
+  .spnmn a:hover {
+    color: #0056b3;
+  }
+

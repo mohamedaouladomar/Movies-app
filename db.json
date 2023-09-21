@@ -1,0 +1,211 @@
+{
+  "userss": [
+    {
+      "id": 1,
+      "username": "mounir_haji",
+      "password": "999"
+    },
+    {
+      "id": 56,
+      "username": "mehdi_sumo",
+      "password": "8884"
+    },
+    {
+      "id": "523",
+      "username": "imad_akdi",
+      "password": "852"
+    }
+  ],
+  "moviess": [
+    {
+      "id": 2,
+      "Duration": 175,
+      "Image": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/01/lakadbaggha-01.jpg",
+      "ReleaseDate": "2000-01-05T00:00:00",
+      "Rating": 8.7,
+      "Country": "USA",
+      "Title": "Lost",
+      "Synopsis": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+    },
+    {
+      "id": "1025",
+      "Title": "Conjuring 2",
+      "Synopsis": "Desc Conjuring",
+      "Duration": "100min",
+      "Image": "http://timesofindia.indiatimes.com/photo/81192653.cms",
+      "ReleaseDate": "2022-12-05T00:00:00",
+      "Rating": "5.9",
+      "Country": "USA"
+    },
+    {
+      "id": "7592",
+      "Title": "conjuring 1",
+      "Synopsis": "Desc conjuring",
+      "Duration": "500min",
+      "Image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
+      "ReleaseDate": "2021-12-20T00:00:00",
+      "Rating": "9.8",
+      "Country": "USA"
+    },
+    {
+      "id": "554",
+      "Title": "DARK night 1",
+      "Synopsis": "Desc dark night",
+      "Duration": "150min",
+      "Image": "https://images.moviesanywhere.com/bd47f9b7d090170d79b3085804075d41/c6140695-a35f-46e2-adb7-45ed829fc0c0.jpg",
+      "ReleaseDate": "2017-02-25T00:00:00",
+      "Rating": "8.8",
+      "Country": "USA"
+    },
+    {
+      "id": "17",
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Synopsis": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed",
+      "Duration": "179min",
+      "Image": "https://m.media-amazon.com/images/M/MV5BNTg3NjcxYzgtYjljNC00Y2I2LWE3YmMtOTliZTkwYTE1MmZiXkEyXkFqcGdeQXVyNTY4NDc5MDE@._V1_FMjpg_UX1000_.jpg",
+      "ReleaseDate": "2020-11-15T00:00:00",
+      "Rating": "8.5",
+      "Country": "USA"
+    },
+    {
+      "id": "141",
+      "Title": "American History X",
+      "Synopsis": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did",
+      "Duration": "169min",
+      "Image": "https://flxt.tmsimg.com/assets/p21980_p_v8_ai.jpg",
+      "ReleaseDate": "2002-02-25T00:00:00",
+      "Rating": "8.4",
+      "Country": "USA"
+    },
+    {
+      "id": "19",
+      "Duration": 179,
+      "Image": "https://images.moviesanywhere.com/e08bdd760138ad2b7fcb992943536bfa/d1935091-487e-44a8-a66f-97f892a621f9.jpg",
+      "ReleaseDate": "2002-12-18T00:00:00",
+      "Rating": 8.4,
+      "Country": "New Zealand",
+      "Title": "The Lord of the Rings: The Two Towers",
+      "Synopsis": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard."
+    },
+    {
+      "id": "20",
+      "Duration": 111,
+      "Image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+      "ReleaseDate": "1994-09-14T00:00:00",
+      "Rating": "8.3",
+      "Country": "France",
+      "Title": "Léon: The Professional",
+      "Synopsis": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps."
+    },
+    {
+      "id": "21",
+      "Duration": 162,
+      "Image": "https://fr.web.img4.acsta.net/pictures/22/11/02/14/49/4565071.jpg",
+      "ReleaseDate": "2009-12-18T00:00:00",
+      "Rating": "7.5",
+      "Country": "USA",
+      "Title": "Avatar",
+      "Synopsis": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+    },
+    {
+      "id": "18",
+      "Duration": "169min",
+      "Image": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg",
+      "ReleaseDate": "2014-11-07T00:00:00",
+      "Rating": "8.4",
+      "Country": "USA",
+      "Title": "Interstellar",
+      "Synopsis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+    },
+    {
+      "id": "19",
+      "Duration": "179min",
+      "Image": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/40580/lotr-twotowers-posterart.jpg",
+      "ReleaseDate": "2002-12-18T00:00:00",
+      "Rating": 8.4,
+      "Country": "New Zealand",
+      "Title": "The Lord of the Rings: The Two Towers",
+      "Synopsis": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard."
+    },
+    {
+      "id": "23",
+      "Duration": "143min",
+      "Image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "ReleaseDate": "2012-05-04T00:00:00",
+      "Rating": "7.7",
+      "Country": "USA",
+      "Title": "The Avengers",
+      "Synopsis": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!"
+    },
+    {
+      "id": "24",
+      "Duration": "139min",
+      "Image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Hacksaw_Ridge_poster.png",
+      "ReleaseDate": "2016-10-07T00:00:00",
+      "Rating": "8.2",
+      "Country": "Australia",
+      "Title": "Hacksaw Ridge",
+      "Synopsis": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor."
+    },
+    {
+      "id": "25",
+      "Duration": "121min",
+      "Image": "https://cdn.marvel.com/content/1x/spidermannwh_hardcover.jpg",
+      "ReleaseDate": "2002-05-03T00:00:00",
+      "Rating": 7.2,
+      "Country": "USA",
+      "Title": "Spider-Man",
+      "Synopsis": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man."
+    },
+    {
+      "id": 26,
+      "Duration": 89,
+      "Image": "https://lumiere-a.akamaihd.net/v1/images/image_fc5cb742.jpeg?region=0,0,540,810",
+      "ReleaseDate": "1994-06-23T00:00:00",
+      "Rating": 8.3,
+      "Country": "USA",
+      "Title": "The Lion King",
+      "Synopsis": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?"
+    },
+    {
+      "id": 27,
+      "Duration": "148min",
+      "Image": "https://m.media-amazon.com/images/I/51TfUWh5N9L.jpg",
+      "ReleaseDate": "2010-07-16T00:00:00",
+      "Rating": 8.4,
+      "Country": "USA",
+      "Title": "Inception",
+      "Synopsis": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious."
+    },
+    {
+      "id": 28,
+      "Duration": "180min",
+      "Image": "https://m.media-amazon.com/images/I/91m2MB2lYFL._AC_SL1500_.jpg",
+      "ReleaseDate": "2013-12-25T00:00:00",
+      "Rating": 8,
+      "Country": "USA",
+      "Title": "The Wolf of Wall Street",
+      "Synopsis": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
+    },
+    {
+      "id": "7426",
+      "Title": "Prison break  ",
+      "Synopsis": "Desc prison break",
+      "Duration": "1000min",
+      "Image": "https://fr.web.img5.acsta.net/pictures/17/05/22/16/49/588696.jpg",
+      "ReleaseDate": "2022-12-25T00:00:00",
+      "Rating": "7.5",
+      "Country": "USA"
+    },
+    {
+      "id": "85236",
+      "Title": "Breaking Bad",
+      "Synopsis": "Walter White, 50 ans, est professeur de chimie dans un lycée du Nouveau-Mexique. Pour réunir de l'argent afin de subvenir aux besoins de sa famille, Walter met ses connaissances en chimie ",
+      "Duration": "150min",
+      "Image": "https://storage.googleapis.com/pod_public/750/124250.jpg",
+      "ReleaseDate": "2023-12-25T00:00:00",
+      "Rating": "7.7",
+      "Country": "USA"
+    }
+  ]
+}

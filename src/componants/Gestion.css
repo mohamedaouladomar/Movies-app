@@ -1,0 +1,17 @@
+.divparent{
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+    width: 1230px;
+  }
+
+  .nav22{
+    background-color: aqua;
+  }
+  .divpgn{
+    text-align: center
+  }
+  .btn22{
+    margin-left: 15px;
+  }

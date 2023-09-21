@@ -1,0 +1,52 @@
+/* div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .leftdiv2 {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .img3 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .title2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .dt {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  .rating2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .lab {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #f7d154;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .labdesc {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+  }
+   */
